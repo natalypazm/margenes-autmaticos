@@ -1,0 +1,19 @@
+/* Escribe aqui tu CSS */
+.p1{
+	 border: yellow 15px solid;
+     width: 220px;
+     margin: 10px;
+     padding: 50px;
+     float: left;
+     text-align: center;
+     
+     }
+
+   .p2{
+   	border: yellow 15px solid;
+    width: 220px;
+    margin: 100px 500px;
+    padding: 50px;
+    float:right;  
+    text-align: left;  
+     }
